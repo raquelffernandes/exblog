@@ -1,0 +1,12 @@
+.navbar{
+    opacity: 80%;
+}
+
+.card{
+    filter:brightness(0.8);
+}
+.posts:hover{
+    filter:brightness(2);
+    filter: contrast(1);
+    cursor: pointer;
+}
